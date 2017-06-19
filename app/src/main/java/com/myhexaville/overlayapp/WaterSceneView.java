@@ -109,20 +109,3 @@ public class WaterSceneView extends View {
         noise.setNoiseIntensity(noiseAmount);
     }
 }
-/*
-* Hi, I found a beautiful <a href="https://play.google.com/store/apps/details?id=no.agens.depth" target="_blank" rel="noopener">app </a>by some Norway game developers, which isn't a game, but open source. And there were quite a few cool things about it - one of them is noise. So I decided to use that element and make a FallOut-like overlay prank or call it whatever you want
-
-<!--more-->
-
-Here it is
-
-<img class="alignnone  wp-image-992" src="http://myhexaville.com/wp-content/uploads/2017/06/ezgif.com-video-to-gif3.gif" alt="" width="354" height="629" />
-
-So it's a view that's drawn over other apps, the cool part is that it work over the navigation bar, even black.
-<h2>Request Permission</h2>
-We need to add this permission to manifest
-
-&nbsp;
-<h2>Add Overlaying View</h2>
-*
-* */
